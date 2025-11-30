@@ -1,0 +1,14 @@
+# Ignore everything
+*
+
+# Allow only Python code files
+!*.py
+
+# Allow only audio file (mp3)
+!*.mp3
+
+# Allow requirements.txt
+!requirements.txt
+
+# Allow gitignore itself
+!.gitignore
